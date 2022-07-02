@@ -1,0 +1,7 @@
+.circle {
+    background-color: aliceblue;
+    border: 2px dotted #ffffff;
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+}
